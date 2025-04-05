@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Gabrielle-Essence-Eau-De-Parfum",
+    github: "https://github.com/TMD-0113/Gabrielle-Essence-Eau-De-Parfum",
+    vercel:"https://gabrielle-essence-eau-de-parfum.vercel.app/"
+  },
+  {
     title: "blok previe card 4",
     github: "https://github.com/TMD-0113/5-dars-4",
     vercel:"https://5-dars-4.vercel.app"
