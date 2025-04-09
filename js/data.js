@@ -1,38 +1,43 @@
 export default [
   {
+    title: " My Team | Home",
+    github: "https://github.com/TMD-0113/3-oy-7-dars",
+    vercel: "https://3-oy-7-dars-mu.vercel.app",
+  },
+  {
     title: "Gabrielle-Essence-Eau-De-Parfum",
     github: "https://github.com/TMD-0113/Gabrielle-Essence-Eau-De-Parfum",
-    vercel:"https://gabrielle-essence-eau-de-parfum.vercel.app/"
+    vercel: "https://gabrielle-essence-eau-de-parfum.vercel.app/",
   },
   {
     title: "blok previe card 4",
     github: "https://github.com/TMD-0113/5-dars-4",
-    vercel:"https://5-dars-4.vercel.app"
+    vercel: "https://5-dars-4.vercel.app",
   },
   {
     title: "blok previe card 3",
     github: "https://github.com/TMD-0113/5-dar-3",
-    vercel:"https://5-dar-3.vercel.app"
+    vercel: "https://5-dar-3.vercel.app",
   },
   {
     title: "blok previe card 2",
     github: "https://github.com/TMD-0113/5-dars-2",
-    vercel:"https://5-dars-2-three.vercel.app"
+    vercel: "https://5-dars-2-three.vercel.app",
   },
   {
     title: "blok previe card",
     github: "https://github.com/TMD-0113/5-dars-1",
-    vercel:"https://5-dars-1.vercel.app"
+    vercel: "https://5-dars-1.vercel.app",
   },
   {
     title: "Simple Omelette Recipe",
     github: "https://github.com/TMD-0113/hatolik-bor-qiynalyapma-ozro",
-    vercel:"https://hatolik-bor-qiynalyapma-ozro.vercel.app"
+    vercel: "https://hatolik-bor-qiynalyapma-ozro.vercel.app",
   },
   {
     title: "powrer",
     github: "https://github.com/TMD-0113/power",
-    vercel:"https://power-mu.vercel.app"
+    vercel: "https://power-mu.vercel.app",
   },
   {
     title: "Ansormed",
