@@ -1,5 +1,10 @@
 export default [
   {
+    title: " My Team | Home 2 qismi",
+    github: "https://github.com/TMD-0113/3-oy-7-dars",
+    vercel: "https://3-oy-7-dars-mu.vercel.app",
+  },
+  {
     title: " My Team | Home",
     github: "https://github.com/TMD-0113/3-oy-7-dars",
     vercel: "https://3-oy-7-dars-mu.vercel.app",
