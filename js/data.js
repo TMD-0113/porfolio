@@ -1,8 +1,13 @@
 export default [
   {
+    title: "tech-book-page",
+    github: "https://github.com/TMD-0113/tech-book-landing-page",
+    vercel: "https://tech-book-landing-page-gilt.vercel.app",
+  },
+  {
     title: "singe-page-desgin-porfolio",
     github: "https://github.com/TMD-0113/template-scss",
-    vercel: "template-scss-mocha.vercel.app",
+    vercel: "https://template-scss-mocha.vercel.app",
   },
   {
     title: " My Team | Home 2 qismi",
