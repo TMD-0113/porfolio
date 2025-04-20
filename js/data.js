@@ -1,8 +1,8 @@
 export default [
   {
     title: "templet",
-    github: "https://github.com/TMD-0113/templettttt",
-    vercel: "https://templettttt.vercel.app",
+    github: "https://github.com/TMD-0113/temolettttt",
+    vercel: "https://temolettttt.vercel.app",
   },
   {
     title: "tech-book-page-resmontiv",
