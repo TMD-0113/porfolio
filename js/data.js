@@ -5,11 +5,6 @@ export default [
     vercel: "https://temolettttt.vercel.app",
   },
   {
-    title: "tech-book-page-resmontiv",
-    github: "https://github.com/TMD-0113/template-scss-1",
-    vercel: "https://template-scss-1.vercel.app",
-  },
-  {
     title: "tech-book-page",
     github: "https://github.com/TMD-0113/tech-book-landing-page",
     vercel: "https://tech-book-landing-page-gilt.vercel.app",
