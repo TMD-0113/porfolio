@@ -1,4 +1,10 @@
 export default [
+
+  {
+    title: "music player 2",
+    github: "https://github.com/TMD-0113/4-dars",
+    vercel: "https://4-dars-eight-eta.vercel.app",
+  },
   {
     title: "music player",
     github: "https://github.com/TMD-0113/4-dars",
