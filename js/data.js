@@ -1,4 +1,10 @@
 export default [
+  
+  {
+    title: "sayohat",
+    github: "https://github.com/TMD-0113/8-dars",
+    vercel: "https://8-dars-iota.vercel.app",
+  },
 
   {
     title: "music player 2",
