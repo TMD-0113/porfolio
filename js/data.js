@@ -1,5 +1,16 @@
 export default [
-  
+  {
+    title: "sotuv bolimi ",
+    github: "https://github.com/TMD-0113/11-darss",
+    vercel: "https://11-darss-seven.vercel.app",
+  },
+
+  {
+    title: "uzum",
+    github: "https://github.com/TMD-0113/uzum",
+    vercel: "https://uzum-beta.vercel.app",
+  },
+
   {
     title: "sayohat",
     github: "https://github.com/TMD-0113/8-dars",
