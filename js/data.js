@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Desserts Menu",
+    github: "https://github.com/TMD-0113/imtixon-5-oy-2-vazifa",
+    vercel: "https://imtixon-5-oy-2-vazifa.vercel.app",
+  },
+  {
     title: "uzum sotuv bolimi",
     github: "https://github.com/TMD-0113/11-dars-uy-ishi-",
     vercel: "https://11-dars-uy-ishi-black.vercel.app",
