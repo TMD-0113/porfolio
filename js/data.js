@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Random user",
+    github: "https://github.com/TMD-0113/1-dars",
+    vercel: "https://1-dars-eosin.vercel.app",
+  },
+  {
     title: "Desserts Menu",
     github: "https://github.com/TMD-0113/imtixon-5-oy-2-vazifa",
     vercel: "https://imtixon-5-oy-2-vazifa.vercel.app",
