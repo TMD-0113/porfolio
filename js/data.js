@@ -1,7 +1,12 @@
 export default [
   {
+    title: "My book shop 5 dars",
+    github: "https://github.com/TMD-0113/5dars",
+    vercel: "https://5dars-nu.vercel.app",
+  },
+  {
     title: "My book shop",
-    github: "https://github.com/TMD-0113/4dars",
+    github: "https://github.com/TMD-0113/4dars5",
     vercel: "https://4dars-swart.vercel.app",
   },
   {
