@@ -1,5 +1,10 @@
 export default [
   {
+    title: "sotuv bolimi",
+    github: "https://github.com/TMD-0113/Product-site-main",
+    vercel: "https://product-site-main.vercel.app",
+  },
+  {
     title: "My book shop 5 dars",
     github: "https://github.com/TMD-0113/5dars",
     vercel: "https://5dars-nu.vercel.app",
