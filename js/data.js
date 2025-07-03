@@ -1,5 +1,10 @@
 export default [
   {
+    title: "product 2",
+    github: "https://github.com/TMD-0113/7dars",
+    vercel: "https://https://github.com/TMD-0113/7dars",
+  },
+  {
     title: "sotuv bolimi",
     github: "https://github.com/TMD-0113/Product-site-main",
     vercel: "https://product-site-main.vercel.app",
@@ -104,5 +109,4 @@ export default [
     github: "https://github.com/TMD-0113/iso-10-dars-html",
     vercel: "https://iso-10-dars-html.vercel.app",
   },
-  
 ];
