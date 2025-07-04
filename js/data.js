@@ -2,7 +2,7 @@ export default [
   {
     title: "product 2",
     github: "https://github.com/TMD-0113/7dars",
-    vercel: "https://https://github.com/TMD-0113/7dars",
+    vercel: "https://7dars-sable.vercel.app",
   },
   {
     title: "sotuv bolimi",
