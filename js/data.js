@@ -1,5 +1,10 @@
 export default [
   {
+    title: "aksesuarlar sotuvi",
+    github: "https://github.com/TMD-0113/9darsi",
+    vercel: "https://9darsi.vercel.app",
+  },
+  {
     title: "product 2",
     github: "https://github.com/TMD-0113/7dars",
     vercel: "https://7dars-sable.vercel.app",
