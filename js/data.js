@@ -1,5 +1,10 @@
 export default [
   {
+    title: "amaliyot",
+    github: "https://github.com/TMD-0113/imthon",
+    vercel: "https://imthon-ashen.vercel.app",
+  },
+  {
     title: "aksesuarlar sotuvi",
     github: "https://github.com/TMD-0113/9darsi",
     vercel: "https://9darsi.vercel.app",
