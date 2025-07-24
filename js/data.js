@@ -1,5 +1,10 @@
 export default [
   {
+    title: "interbet magazin 1 qisim",
+    github: "https://github.com/TMD-0113/4darss",
+    vercel: "https://4darss.vercel.app",
+  },
+  {
     title: "user from",
     github: "https://github.com/TMD-0113/3dars",
     vercel: "https://3dars-five-eta.vercel.app",
