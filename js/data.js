@@ -1,8 +1,8 @@
 export default [
   {
-    title: "internet magazin 1 qisim",
-    github: "https://github.com/TMD-0113/4darss",
-    vercel: "https://4darss.vercel.app",
+    title: "internet magazin 2 qisim",
+    github: "https://github.com/TMD-0113/5darss",
+    vercel: "https://5darss.vercel.app",
   },
   {
     title: "user from",
