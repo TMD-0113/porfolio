@@ -1,6 +1,6 @@
 export default [
   {
-    title: "internet magazin 2 qisim",
+    title: "internet magazin 9 qisim",
     github: "https://github.com/TMD-0113/5darss",
     vercel: "https://5darss.vercel.app",
   },
